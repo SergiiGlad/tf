@@ -5,4 +5,4 @@
 
 sudo yum -y install python python-pip
 sudo pip install Django
-python rocket/manage.py runserver 0:8000
+python ./tf/rocket/manage.py runserver 0:8000
